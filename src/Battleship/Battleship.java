@@ -1,5 +1,5 @@
 package Battleship;
-
+//Hola Xavi, què tal?
 import java.util.Scanner;
 import java.util.Random;
 
